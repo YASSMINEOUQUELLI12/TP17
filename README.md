@@ -27,6 +27,8 @@ Ce lab montre comment :
 
 ---
 
+
+<img width="960" height="516" alt="TP17" src="https://github.com/user-attachments/assets/f03e0262-bc27-4f91-88ec-ee0d5caafd59" />
 ## ✅ Prérequis
 
 - **Node.js v14+**
@@ -140,5 +142,5 @@ XML devient vite lourd,
 
 Protobuf offre le meilleur compromis performance + taille, ce qui explique son adoption dans gRPC.
 
-<img width="960" height="516" alt="TP17" src="https://github.com/user-attachments/assets/f03e0262-bc27-4f91-88ec-ee0d5caafd59" />
+
 
